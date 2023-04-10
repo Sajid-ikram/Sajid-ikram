@@ -43,7 +43,8 @@
 <h3 align="left">Certificates:</h3>
 
 <p float="left">
-   <img src="https://user-images.githubusercontent.com/69424471/230932720-912b8264-ed24-4eb4-a765-fe63a1d36367.jpeg"  />
- 
+   <img src="https://user-images.githubusercontent.com/69424471/230939255-72a02173-6efa-4e41-9179-10b40854a923.jpeg"/>
+
+
 </p>
 
