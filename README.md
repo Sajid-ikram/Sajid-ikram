@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikram</h1>
-<h3 align="center">A passionate Flutter app developer from Bangladesh..</h3>
+<h3 align="center">A passionate software engineer from Bangladesh..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-ikram&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-ikram" /> </p>
 
